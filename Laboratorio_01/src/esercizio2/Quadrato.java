@@ -1,4 +1,4 @@
-package Esercizio2;
+package esercizio2;
 
 public class Quadrato {
 
