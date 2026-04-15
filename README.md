@@ -14,6 +14,7 @@
 | Esercizio | Stato | Cartella |
 | :--- | :--- | :--- |
 | **Garage Multipiano** | ![completato](https://img.shields.io/badge/STATO-COMPLETATO-success?style=flat-square) | [Esercizio](./Allenamento/src/garageMultipiano)
+| **E-Commerce** | ![completato](https://img.shields.io/badge/STATO-COMPLETATO-success?style=flat-square) | [Esercizio](./Allenamento/src/eCommerce)
 
 ---
 *Ultimo aggiornamento: 15/04/2026*
