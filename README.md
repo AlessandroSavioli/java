@@ -17,6 +17,7 @@
 | **E-Commerce** | ![completato](https://img.shields.io/badge/STATO-COMPLETATO-success?style=flat-square) | [Esercizio](./Allenamento/src/eCommerce)
 | **Biblioteca Digitale** | ![completato](https://img.shields.io/badge/STATO-COMPLETATO-success?style=flat-square) | [Esercizio](./Allenamento/src/bibliotecaDigitale)
 | **Cinema** | ![completato](https://img.shields.io/badge/STATO-COMPLETATO-success?style=flat-square) | [Esercizio](./Allenamento/src/cinema)
+| **Velocipide** | ![completato](https://img.shields.io/badge/STATO-COMPLETATO-success?style=flat-square) | [Esercizio](./Allenamento/src/velocipide)
 
 ---
 *Ultimo aggiornamento: 15/04/2026*
